@@ -15,6 +15,7 @@ public:
 	Student(int year, string major);
 		display();
 	Student();
+~Student();
 };
 
 
