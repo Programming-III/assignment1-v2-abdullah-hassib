@@ -11,6 +11,8 @@ int experienceYears;
 public :
 display();
 Instructor();
+Instructor(string department, int experienceYears);
+ ~Instructor();
 };
 
 
