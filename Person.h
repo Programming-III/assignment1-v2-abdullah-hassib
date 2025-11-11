@@ -16,7 +16,7 @@ public:
 	display();
 	person();
 	person(string name, int id);
-
+~person();
 
 
 };
