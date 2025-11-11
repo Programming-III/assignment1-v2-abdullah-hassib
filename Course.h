@@ -19,7 +19,7 @@ public:
 	Course(string code, string name, int max);
 	Course();
 	displayCourseInfo();
-
+~Course();
 
 };
 
